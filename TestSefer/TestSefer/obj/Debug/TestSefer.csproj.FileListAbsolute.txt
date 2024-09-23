@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\TestSefer\TestSefer\bin\Debug\TestSefer.exe.config
+C:\Users\Mert\source\repos\TestSefer\TestSefer\bin\Debug\TestSefer.exe
+C:\Users\Mert\source\repos\TestSefer\TestSefer\bin\Debug\TestSefer.pdb
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.Form1.resources
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.Properties.Resources.resources
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.exe
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.pdb
+C:\Users\Mert\source\repos\TestSefer\TestSefer\obj\Debug\TestSefer.Form2.resources
